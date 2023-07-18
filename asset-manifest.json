@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/preEntrega1-Vicente-Quito/static/css/main.15016082.css",
+    "main.js": "/preEntrega1-Vicente-Quito/static/js/main.d3575566.js",
+    "index.html": "/preEntrega1-Vicente-Quito/index.html",
+    "main.15016082.css.map": "/preEntrega1-Vicente-Quito/static/css/main.15016082.css.map",
+    "main.d3575566.js.map": "/preEntrega1-Vicente-Quito/static/js/main.d3575566.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15016082.css",
+    "static/js/main.d3575566.js"
+  ]
+}
