@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    height: 100px;
+    
+    background: linear-gradient(297deg, rgb(228, 62, 7)  30%, rgba(240, 76, 6, 0.6) 35%, rgba(158, 205, 3, 0.28) 76%, rgba(68, 255, 0, 0.62) 30%, rgba(255, 200, 0, 0.62) 100%);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 30px;    
+   
+}
+
+.navContainer {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content:start;
+    gap: 30px;
+   
+   
+}
+
+
+
+.menu {
+    position: relative;
+    display: inline-block;
+}
+
+.menu-btn {
+    border: 0;
+    background-color: rgb(9,45,121, 0.5);
+    color: white;
+    padding: 0.8rem;
+}
+
+.menu-btn:hover {
+    background-color: rgb(9,45,121);
+    cursor: pointer;
+}
+
+ul {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    margin-left: 1rem;
+    min-width: 10rem;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+ul li {
+    display: block;
+    list-style-type: none;
+    max-width: 10rem;
+    padding: 0.3rem 0;
+}
+
+ul li:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+ul li a {
+    color: #333;
+    display: block;
+    text-decoration: none;
+    text-align: left;
+    padding: 0 5px;
+}
+
+ul li a:hover {
+    color: #fff;
+}
+
+.menu:hover ul {
+    display: block;
+}
+
+.logo{
+    text-decoration: none;
+    color: rgb(112, 206, 246);
+    font-size: 1.2rem;
+    text-shadow: 0 1px 0 rgb(61, 77, 250), 0 2px 0 rgb(4, 25, 255), 0 3px 0 rgb(2, 11, 103), 0 4px 0 rgb(5, 3, 103), 0 5px 0 rgb(44, 3, 119);
+    
+}

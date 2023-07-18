@@ -1,0 +1,24 @@
+.widget{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    
+}
+
+.widget p{
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 50%;
+    margin-top: -50px;
+    margin-left: 15px;
+    color: rgb(254, 254, 254);
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.cart{
+    font-size: 2rem;
+    color: rgb(109, 50, 235);
+}

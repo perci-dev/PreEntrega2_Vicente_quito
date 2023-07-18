@@ -1,0 +1,19 @@
+.container{
+    max-width: 1140px;
+    padding-inline: 1.5rem;
+    margin: 0 auto;
+    
+
+}
+
+.main-title{
+color: chocolate;
+
+}
+
+.productos{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);    
+    padding-block: 2rem;     
+
+}
