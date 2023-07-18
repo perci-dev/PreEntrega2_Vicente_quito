@@ -10,9 +10,10 @@ const Navbar = () => {
             <nav className="menu">        
                 <button className="menu-btn">Categorias</button>
                 <ul>
-                    <li><a href="#">Tegnologia</a></li>
-                    <li><a href="#">Electrodomesticos</a></li>
-                    <li><a href="#">Accesorios Moda</a></li>
+                    <li><a href="#">Casacas</a></li>
+                    <li><a href="#">Pantalones</a></li>
+                    <li><a href="#">Poleras</a></li>
+                    <li><a href="#">Zapatillas</a></li>
                 </ul>
             </nav>
             </div>
