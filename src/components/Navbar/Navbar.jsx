@@ -10,10 +10,10 @@ const Navbar = () => {
             <nav className="menu">        
                 <button className="menu-btn">Productos</button>
                 <ul>
-                    <li><Link to="categoria/casacas">Casacas</Link></li>
-                    <li><Link to="categoria/pantalones">Pantalones</Link></li>
-                    <li><Link to="categoria/poleras">Poleras</Link></li>
-                    <li><Link to="categoria/zapatillas">Zapatillas</Link></li>
+                    <li><Link to="PreEntrega2_Vicente_quito/categoria/casacas">Casacas</Link></li>
+                    <li><Link to="PreEntrega2_Vicente_quito/categoria/pantalones">Pantalones</Link></li>
+                    <li><Link to="/PreEntrega2_Vicente_quito/categoria/poleras">Poleras</Link></li>
+                    <li><Link to="PreEntrega2_Vicente_quito/categoria/zapatillas">Zapatillas</Link></li>
                 </ul>
             </nav>
             </div>
