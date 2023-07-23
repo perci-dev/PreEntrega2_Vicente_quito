@@ -2,7 +2,7 @@
   "name": "ecommerce-vicente",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://perci-dev.github.io/PreEntrega2_Vicente_quito/",
+  "homepage": "https://perci-dev.github.io/",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
@@ -45,6 +45,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
     "react-refresh": "^0.11.0",
+    "react-router-dom": "^6.14.2",
     "resolve": "^1.20.0",
     "resolve-url-loader": "^4.0.0",
     "sass-loader": "^12.3.0",

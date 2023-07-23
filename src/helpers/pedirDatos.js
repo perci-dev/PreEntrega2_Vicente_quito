@@ -1,4 +1,4 @@
-import { Productos } from "./productos"
+import { Productos } from "./productos.js"
 
 
 const pedirDatos = () => {

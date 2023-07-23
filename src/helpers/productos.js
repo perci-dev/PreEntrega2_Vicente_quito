@@ -81,7 +81,7 @@ export const Productos = [
         id: 9,
         titulo: "Salt Water",
         descripcion : "lorem",
-        imagen: "https://falabella.scene7.com/is/image/FalabellaPE/882619712_1?wid=240&hei=240&qlt=70",
+        imagen: "https://www.estilos.com.pe/196206-large_default/kansas-jeans-pv22-jeans-k02005-sk.jpg",
         categoria:"pantalones",        
        precio: 299,
         stock:40
