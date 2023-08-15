@@ -18,10 +18,10 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-        <Route path="/PreEntrega2_Vicente_quito/" element={<ItemListContainer greetings = { " Bienvenidos A ecommerce Vicente " } />} />
-        <Route path="PreEntrega2_Vicente_quito/categoria/:categoria" element = {<ItemListContainer />} />
-        <Route path="PreEntrega2_Vicente_quito/item/:id" element = {<ItemDetailContainer />} />
-        <Route path="PreEntrega2_Vicente_quito/categoria/:categoria/item/:id" element = {<ItemDetailContainer />} />
+        <Route path="/TP-FINAL-VICENTE_QUITO-REACT/" element={<ItemListContainer greetings = { " Bienvenidos A ecommerce Vicente " } />} />
+        <Route path="TP-FINAL-VICENTE_QUITO-REACT/categoria/:categoria" element = {<ItemListContainer />} />
+        <Route path="TP-FINAL-VICENTE_QUITO-REACT/item/:id" element = {<ItemDetailContainer />} />
+        <Route path="TP-FINAL-VICENTE_QUITO-REACT/categoria/:categoria/item/:id" element = {<ItemDetailContainer />} />
         <Route path="/carrito" element = {<Carrito/>}/>
       
         
