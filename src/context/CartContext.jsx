@@ -42,6 +42,7 @@ export const CartProvider = ({children}) =>{
   useEffect(()=>{
     localStorage.setItem("carrito", JSON.stringify(carrito))
   },[carrito])
+  
   return (
     <CartContext.Provider value = {{carrito, AgregarCarrito, cantidadCarrito, precioTotal, vaciarCarrito}}>
     {children}
