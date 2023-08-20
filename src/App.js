@@ -6,6 +6,7 @@ import Navbar from './components/Navbar/Navbar';
 import { BrowserRouter , Route, Routes } from 'react-router-dom';
 import { CartProvider } from './context/CartContext';
 import Carrito from './components/Carrito/Carrito';
+import Checkout from "./components/Checkout/Checkout";
 
 
 
@@ -23,6 +24,7 @@ function App() {
         <Route path="TP-FINAL-VICENTE_QUITO-REACT/item/:id" element = {<ItemDetailContainer />} />
         <Route path="TP-FINAL-VICENTE_QUITO-REACT/categoria/:categoria/item/:id" element = {<ItemDetailContainer />} />
         <Route path="/carrito" element = {<Carrito/>}/>
+        <Route path="/checkout" element={<Checkout />}/>
       
         
         </Routes> 
