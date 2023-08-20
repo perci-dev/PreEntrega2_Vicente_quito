@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TP-FINAL-VICENTE_QUITO-REACT/static/css/main.cac9c95d.css",
-    "main.js": "/TP-FINAL-VICENTE_QUITO-REACT/static/js/main.a94c797e.js",
+    "main.css": "/TP-FINAL-VICENTE_QUITO-REACT/static/css/main.6d09bead.css",
+    "main.js": "/TP-FINAL-VICENTE_QUITO-REACT/static/js/main.578bad5a.js",
     "index.html": "/TP-FINAL-VICENTE_QUITO-REACT/index.html",
-    "main.cac9c95d.css.map": "/TP-FINAL-VICENTE_QUITO-REACT/static/css/main.cac9c95d.css.map",
-    "main.a94c797e.js.map": "/TP-FINAL-VICENTE_QUITO-REACT/static/js/main.a94c797e.js.map"
+    "main.6d09bead.css.map": "/TP-FINAL-VICENTE_QUITO-REACT/static/css/main.6d09bead.css.map",
+    "main.578bad5a.js.map": "/TP-FINAL-VICENTE_QUITO-REACT/static/js/main.578bad5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cac9c95d.css",
-    "static/js/main.a94c797e.js"
+    "static/css/main.6d09bead.css",
+    "static/js/main.578bad5a.js"
   ]
 }
